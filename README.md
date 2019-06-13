@@ -1,1 +1,1 @@
-# plots
+# scripts demonstrating simple Matplotlib plots
